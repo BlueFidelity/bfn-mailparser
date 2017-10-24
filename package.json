@@ -1,6 +1,6 @@
 {
   "name": "bfn-mailparser",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "Boot Fidelity MailParser",
   "main": "index.js",
   "author": "Blue Fidelity Inc. (https://www.bluefidelity.com/)",
